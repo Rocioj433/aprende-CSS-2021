@@ -1,0 +1,16 @@
+/*Unidades de Medida*/
+
+/*medidas absolutas
+Son basicamente los px en css
+se usan para elementos que no van a cambiar
+*/
+
+/*medidas relativas
+% porcentaje: relativo a un elemento padre
+em: relativo al tamaño de letra del elemento
+el em selecciona como referencia las medidas del texto de html
+tenemos problema compuesto o de composicion que es que el em va a variar en funcion de si lo cambiamos en un elemento padre
+
+fr: fraccion y se usa en grid
+
+*/
